@@ -134,6 +134,9 @@ ro.vendor.mtk_log_hide_gps=0
 # Graphics
 graphics.gpu.profiler.support=true
 ro.hardware.egl=meow
+debug.sf.disable_backpressure=1
+debug.sf.enable_gl_backpressure=0
+debug.sf.enable_hwc_vds=0
 ro.hardware.vulkan=mali
 ro.opengles.version=196610
 ro.vendor.arm.egl.configs.r5_g6_b5_a0_16bit_fixed.framebuffer_target=false
